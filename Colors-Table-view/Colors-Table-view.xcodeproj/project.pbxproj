@@ -15,6 +15,7 @@
 		25B285B6205C7A2700CB4FD4 /* Colors_Table_viewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25B285B5205C7A2700CB4FD4 /* Colors_Table_viewUITests.swift */; };
 		25B285C4205C7BBB00CB4FD4 /* ColorsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25B285C3205C7BBB00CB4FD4 /* ColorsTableViewController.swift */; };
 		25B285C62065AA7A00CB4FD4 /* color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25B285C52065AA7A00CB4FD4 /* color.swift */; };
+		25B285C82065B2EF00CB4FD4 /* COLORdetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25B285C72065B2EF00CB4FD4 /* COLORdetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		25B285B7205C7A2700CB4FD4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		25B285C3205C7BBB00CB4FD4 /* ColorsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsTableViewController.swift; sourceTree = "<group>"; };
 		25B285C52065AA7A00CB4FD4 /* color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = color.swift; sourceTree = "<group>"; };
+		25B285C72065B2EF00CB4FD4 /* COLORdetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = COLORdetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				25B285A1205C7A2700CB4FD4 /* Info.plist */,
 				25B285C3205C7BBB00CB4FD4 /* ColorsTableViewController.swift */,
 				25B285C52065AA7A00CB4FD4 /* color.swift */,
+				25B285C72065B2EF00CB4FD4 /* COLORdetailViewController.swift */,
 			);
 			path = "Colors-Table-view";
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				25B285C62065AA7A00CB4FD4 /* color.swift in Sources */,
 				25B28596205C7A2700CB4FD4 /* AppDelegate.swift in Sources */,
 				25B285C4205C7BBB00CB4FD4 /* ColorsTableViewController.swift in Sources */,
+				25B285C82065B2EF00CB4FD4 /* COLORdetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
